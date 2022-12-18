@@ -1,0 +1,24 @@
+﻿@model List<City>
+
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+   @foreach (var item in Model)
+   {
+    <p>@item.CityId</p>
+    <p>@item.Name</p>
+   }
+@* <button action="http://localhost:5274//api/City/GetCities">Submit</button> *@
+
+@* 
+<script>
+    const x = [];
+    fetch("http://localhost:5274//api/City/GetCities");
+    .then((res) => push.x(res));
+</script> *@

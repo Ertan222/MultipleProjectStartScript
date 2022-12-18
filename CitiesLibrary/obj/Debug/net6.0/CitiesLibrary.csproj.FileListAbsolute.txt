@@ -1,0 +1,12 @@
+/home/ertan/code/CHashtag/APIConsuming/CitiesLibrary/bin/Debug/net6.0/CitiesLibrary.deps.json
+/home/ertan/code/CHashtag/APIConsuming/CitiesLibrary/bin/Debug/net6.0/CitiesLibrary.dll
+/home/ertan/code/CHashtag/APIConsuming/CitiesLibrary/bin/Debug/net6.0/ref/CitiesLibrary.dll
+/home/ertan/code/CHashtag/APIConsuming/CitiesLibrary/bin/Debug/net6.0/CitiesLibrary.pdb
+/home/ertan/code/CHashtag/APIConsuming/CitiesLibrary/obj/Debug/net6.0/CitiesLibrary.csproj.AssemblyReference.cache
+/home/ertan/code/CHashtag/APIConsuming/CitiesLibrary/obj/Debug/net6.0/CitiesLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/ertan/code/CHashtag/APIConsuming/CitiesLibrary/obj/Debug/net6.0/CitiesLibrary.AssemblyInfoInputs.cache
+/home/ertan/code/CHashtag/APIConsuming/CitiesLibrary/obj/Debug/net6.0/CitiesLibrary.AssemblyInfo.cs
+/home/ertan/code/CHashtag/APIConsuming/CitiesLibrary/obj/Debug/net6.0/CitiesLibrary.csproj.CoreCompileInputs.cache
+/home/ertan/code/CHashtag/APIConsuming/CitiesLibrary/obj/Debug/net6.0/CitiesLibrary.dll
+/home/ertan/code/CHashtag/APIConsuming/CitiesLibrary/obj/Debug/net6.0/ref/CitiesLibrary.dll
+/home/ertan/code/CHashtag/APIConsuming/CitiesLibrary/obj/Debug/net6.0/CitiesLibrary.pdb

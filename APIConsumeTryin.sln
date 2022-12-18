@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIConsumeTry", "APIConsumeTry\APIConsumeTry.csproj", "{E7D47001-0FF3-42EF-9AEC-30C90C52B463}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CitiesConsumingAPI", "CitiesConsumingAPI\CitiesConsumingAPI.csproj", "{2BDC091E-4644-4C05-A2AC-A8C1C9FC8812}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CitiesLibrary", "CitiesLibrary\CitiesLibrary.csproj", "{3D87C58B-3E80-4C2D-B0A3-88CAF79B071E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7D47001-0FF3-42EF-9AEC-30C90C52B463}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7D47001-0FF3-42EF-9AEC-30C90C52B463}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7D47001-0FF3-42EF-9AEC-30C90C52B463}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7D47001-0FF3-42EF-9AEC-30C90C52B463}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BDC091E-4644-4C05-A2AC-A8C1C9FC8812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BDC091E-4644-4C05-A2AC-A8C1C9FC8812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BDC091E-4644-4C05-A2AC-A8C1C9FC8812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BDC091E-4644-4C05-A2AC-A8C1C9FC8812}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D87C58B-3E80-4C2D-B0A3-88CAF79B071E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D87C58B-3E80-4C2D-B0A3-88CAF79B071E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D87C58B-3E80-4C2D-B0A3-88CAF79B071E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D87C58B-3E80-4C2D-B0A3-88CAF79B071E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
