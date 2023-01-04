@@ -10,3 +10,15 @@
 /home/ertan/code/CHashtag/APIConsuming/CitiesLibrary/obj/Debug/net6.0/CitiesLibrary.dll
 /home/ertan/code/CHashtag/APIConsuming/CitiesLibrary/obj/Debug/net6.0/ref/CitiesLibrary.dll
 /home/ertan/code/CHashtag/APIConsuming/CitiesLibrary/obj/Debug/net6.0/CitiesLibrary.pdb
+C:\Users\Ertan\Desktop\MultipleProjectStart\MultipleProjectStartScript\CitiesLibrary\obj\Debug\net6.0\CitiesLibrary.csproj.AssemblyReference.cache
+C:\Users\Ertan\Desktop\MultipleProjectStart\MultipleProjectStartScript\CitiesLibrary\obj\Debug\net6.0\CitiesLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ertan\Desktop\MultipleProjectStart\MultipleProjectStartScript\CitiesLibrary\obj\Debug\net6.0\CitiesLibrary.AssemblyInfoInputs.cache
+C:\Users\Ertan\Desktop\MultipleProjectStart\MultipleProjectStartScript\CitiesLibrary\obj\Debug\net6.0\CitiesLibrary.AssemblyInfo.cs
+C:\Users\Ertan\Desktop\MultipleProjectStart\MultipleProjectStartScript\CitiesLibrary\obj\Debug\net6.0\CitiesLibrary.dll
+C:\Users\Ertan\Desktop\MultipleProjectStart\MultipleProjectStartScript\CitiesLibrary\obj\Debug\net6.0\CitiesLibrary.pdb
+C:\Users\Ertan\Desktop\MultipleProjectStart\MultipleProjectStartScript\CitiesLibrary\bin\Debug\net6.0\CitiesLibrary.deps.json
+C:\Users\Ertan\Desktop\MultipleProjectStart\MultipleProjectStartScript\CitiesLibrary\bin\Debug\net6.0\CitiesLibrary.dll
+C:\Users\Ertan\Desktop\MultipleProjectStart\MultipleProjectStartScript\CitiesLibrary\bin\Debug\net6.0\CitiesLibrary.pdb
+C:\Users\Ertan\Desktop\MultipleProjectStart\MultipleProjectStartScript\CitiesLibrary\obj\Debug\net6.0\CitiesLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Ertan\Desktop\MultipleProjectStart\MultipleProjectStartScript\CitiesLibrary\obj\Debug\net6.0\refint\CitiesLibrary.dll
+C:\Users\Ertan\Desktop\MultipleProjectStart\MultipleProjectStartScript\CitiesLibrary\obj\Debug\net6.0\ref\CitiesLibrary.dll

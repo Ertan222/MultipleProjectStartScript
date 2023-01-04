@@ -1,33 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "/home/ertan/code/CHashtag/APIConsuming/APIConsumeTry/APIConsumeTry.csproj": {}
+    "C:\\Users\\Ertan\\Desktop\\MultipleProjectStart\\MultipleProjectStartScript\\APIConsumeTry\\APIConsumeTry.csproj": {}
   },
   "projects": {
-    "/home/ertan/code/CHashtag/APIConsuming/APIConsumeTry/APIConsumeTry.csproj": {
+    "C:\\Users\\Ertan\\Desktop\\MultipleProjectStart\\MultipleProjectStartScript\\APIConsumeTry\\APIConsumeTry.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ertan/code/CHashtag/APIConsuming/APIConsumeTry/APIConsumeTry.csproj",
+        "projectUniqueName": "C:\\Users\\Ertan\\Desktop\\MultipleProjectStart\\MultipleProjectStartScript\\APIConsumeTry\\APIConsumeTry.csproj",
         "projectName": "APIConsumeTry",
-        "projectPath": "/home/ertan/code/CHashtag/APIConsuming/APIConsumeTry/APIConsumeTry.csproj",
-        "packagesPath": "/home/ertan/.nuget/packages/",
-        "outputPath": "/home/ertan/code/CHashtag/APIConsuming/APIConsumeTry/obj/",
+        "projectPath": "C:\\Users\\Ertan\\Desktop\\MultipleProjectStart\\MultipleProjectStartScript\\APIConsumeTry\\APIConsumeTry.csproj",
+        "packagesPath": "C:\\Users\\Ertan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ertan\\Desktop\\MultipleProjectStart\\MultipleProjectStartScript\\APIConsumeTry\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/ertan/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Ertan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/home/ertan/code/CHashtag/APIConsuming/CitiesLibrary/CitiesLibrary.csproj": {
-                "projectPath": "/home/ertan/code/CHashtag/APIConsuming/CitiesLibrary/CitiesLibrary.csproj"
+              "C:\\Users\\Ertan\\Desktop\\MultipleProjectStart\\MultipleProjectStartScript\\CitiesLibrary\\CitiesLibrary.csproj": {
+                "projectPath": "C:\\Users\\Ertan\\Desktop\\MultipleProjectStart\\MultipleProjectStartScript\\CitiesLibrary\\CitiesLibrary.csproj"
               }
             }
           }
@@ -67,7 +69,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -79,26 +82,28 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.111/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/ertan/code/CHashtag/APIConsuming/CitiesLibrary/CitiesLibrary.csproj": {
+    "C:\\Users\\Ertan\\Desktop\\MultipleProjectStart\\MultipleProjectStartScript\\CitiesLibrary\\CitiesLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ertan/code/CHashtag/APIConsuming/CitiesLibrary/CitiesLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\Ertan\\Desktop\\MultipleProjectStart\\MultipleProjectStartScript\\CitiesLibrary\\CitiesLibrary.csproj",
         "projectName": "CitiesLibrary",
-        "projectPath": "/home/ertan/code/CHashtag/APIConsuming/CitiesLibrary/CitiesLibrary.csproj",
-        "packagesPath": "/home/ertan/.nuget/packages/",
-        "outputPath": "/home/ertan/code/CHashtag/APIConsuming/CitiesLibrary/obj/",
+        "projectPath": "C:\\Users\\Ertan\\Desktop\\MultipleProjectStart\\MultipleProjectStartScript\\CitiesLibrary\\CitiesLibrary.csproj",
+        "packagesPath": "C:\\Users\\Ertan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ertan\\Desktop\\MultipleProjectStart\\MultipleProjectStartScript\\CitiesLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/ertan/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Ertan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -122,7 +127,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -131,7 +137,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.111/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
